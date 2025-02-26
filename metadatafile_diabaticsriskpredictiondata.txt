@@ -1,0 +1,20 @@
+
+Metadata file of diabetes risk prediction dataset data
+
+Age (1-20 to 65): Age range of the individuals.
+Sex (1. Male, 2. Female): Gender information.
+Polyuria (1. Yes, 2. No): Presence of excessive urination.
+Polydipsia (1. Yes, 2. No): Excessive thirst.
+Sudden Weight Loss (1. Yes, 2. No): Abrupt weight loss.
+Weakness (1. Yes, 2. No): Generalized weakness.
+Polyphagia (1. Yes, 2. No): Excessive hunger.
+Genital Thrush (1. Yes, 2. No): Presence of genital thrush.
+Visual Blurring (1. Yes, 2. No): Blurring of vision.
+Itching (1. Yes, 2. No): Presence of itching.
+Irritability (1. Yes, 2. No): Display of irritability.
+Delayed Healing (1. Yes, 2. No): Delayed wound healing.
+Partial Paresis (1. Yes, 2. No): Partial loss of voluntary movement.
+Muscle Stiffness (1. Yes, 2. No): Presence of muscle stiffness.
+Alopecia (1. Yes, 2. No): Hair loss.
+Obesity (1. Yes, 2. No): Presence of obesity.
+Class (1. Positive, 2. Negative): Diabetes classification.
